@@ -1,2 +1,1 @@
-# HackTheBox
-Meow Write-up
+# HackTheBox Write-up
